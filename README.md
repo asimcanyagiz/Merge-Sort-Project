@@ -1,3 +1,5 @@
+![My project-13](https://user-images.githubusercontent.com/89473605/174806292-4e2b3acf-a5f3-454a-b54f-bbf1248edec0.png)
+
 # Merge-Sort-Project
 
 ## A project for Algorithm task from Patika.dev course
